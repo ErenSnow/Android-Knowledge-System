@@ -2,6 +2,8 @@
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: |
 | 计算机基础 [:computer:](#计算机基础-computer) | 算法 [:pencil2:](#算法-pencil2) | 设计模式 [:trophy:](#设计模式-trophy) | Java [:coffee:](#java-coffee) | Kotlin [:fire:](#kotlin-fire) | Android [:zap:](#android-zap) | 细分领域专家[:rocket:](#细分领域专家-rocket) | 其它[:muscle:](#其它-muscle) |
 
+## 学习来源：B站、慕课网、极客时间、专业书籍
+
 ## 计算机基础 :computer:
 
 ### 计算机组成原理
