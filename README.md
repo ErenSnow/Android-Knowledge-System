@@ -10,7 +10,7 @@
 
 > [计算机组成原理](https://github.com/ErenSnow/Computer-Basics/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
-- **[计算机组成原理（哈工大刘宏伟）135讲（全）使用书籍《计算机组成原理（第2版）》 唐朔飞](https://www.bilibili.com/video/BV1t4411e7LH?spm_id_from=333.337.search-card.all.click&vd_source=b9607b769ef4faf531f90a5a176c497e)**（进行中）
+- **[计算机组成原理（哈工大刘宏伟）135讲（全），配套书籍《计算机组成原理（第2版）》 唐朔飞](https://www.bilibili.com/video/BV1t4411e7LH?spm_id_from=333.337.search-card.all.click&vd_source=b9607b769ef4faf531f90a5a176c497e)（进行中）**
 
 ### 操作系统（重点）
  
