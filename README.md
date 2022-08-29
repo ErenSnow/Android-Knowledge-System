@@ -16,7 +16,7 @@
  
 > 现代操作系统
   
-- **[操作系统原理（清华大学）115讲，配套书籍《现代操作系统》(原书第四版)](https://www.bilibili.com/video/BV1uW411f72n?vd_source=b9607b769ef4faf531f90a5a176c497e)**
+- **[南京大学2022操作系统-蒋炎岩，配套书籍《深入理解计算机系统》《现代操作系统》](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788&vd_source=b9607b769ef4faf531f90a5a176c497e)**
 
 > Linux基础
 
