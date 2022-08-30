@@ -14,7 +14,7 @@
 
 ### 操作系统（重点）
  
-> 现代操作系统
+> [现代操作系统](https://github.com/ErenSnow/Computer-Basics/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   
 - **[南京大学2022操作系统-蒋炎岩，配套书籍《深入理解计算机系统》《现代操作系统》](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788&vd_source=b9607b769ef4faf531f90a5a176c497e)**
 
