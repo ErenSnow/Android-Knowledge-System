@@ -16,34 +16,14 @@
  
 > [现代操作系统](https://github.com/ErenSnow/Computer-Basics/tree/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
   
-- **[南京大学2022操作系统-蒋炎岩，配套书籍《深入理解计算机系统》《现代操作系统》](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788&vd_source=b9607b769ef4faf531f90a5a176c497e)**
+- **[南京大学2022操作系统-蒋炎岩，配套书籍《深入理解计算机系统》《现代操作系统》](https://www.bilibili.com/video/BV1Cm4y1d7Ur/?spm_id_from=333.788&vd_source=b9607b769ef4faf531f90a5a176c497e)（进行中）**
 
-> Linux基础
+> [Linux基础](https://github.com/ErenSnow/Computer-Basics/tree/main/Linux%E5%9F%BA%E7%A1%80)
 
-- **慕课网之《编程必备基础 计算机组成原理+操作系统+计算机网络》**
-- **慕课网之《大学计算机必修课新讲--编译原理+操作系统+图形学》**
+- **[2021韩顺平 一周学会Linux，配套书籍《鸟哥的Linux私房菜 基础学习篇》(第4版)](https://www.bilibili.com/video/BV1Sv411r7vd?p=1&vd_source=b9607b769ef4faf531f90a5a176c497e)**
 
-- 《Linux私房菜 基础学习篇》(第三版)
+- 
 - 《深入理解计算机系统》(原书第三版)
-
-> Linux编程
-
-- 《Linux程序设计》
-
-- 《UNIX环境高级编程》
-
-> Linux内核原理与架构
-
-- **极客时间之《趣谈Linux操作系统》**
-
-- 《深入理解LINUX内核》
-- 《深入Linux内核架构》
-
-> Linux性能优化
-
-- **极客时间之《Linux性能优化实战》**
-
-- **《性能之巅》**
 
 
 ### 网络（重点）
