@@ -41,7 +41,7 @@
 
 > **[数据结构与算法（重点）]()（进行中~）**
 
-- **[中国大学MOOC -- 数据结构与算法](https://www.icourse163.org/course/ZJU-93001)**
+- **[《算法（第4版）》](https://www.icourse163.org/course/ZJU-93001)**
 
 ## 设计模式 :trophy:
 
